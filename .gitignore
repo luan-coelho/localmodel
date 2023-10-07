@@ -1,0 +1,10 @@
+.idea
+*.ipr
+*.iml
+*.iws
+/.idea
+
+.vscode
+.factorypath
+
+/verification_model.keras
